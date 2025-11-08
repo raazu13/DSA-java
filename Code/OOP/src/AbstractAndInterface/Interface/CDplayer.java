@@ -11,6 +11,7 @@ public interface CDplayer {
     default void run(){
         System.out.println("we can add default method tomextend interface");
     }
+
     void start();
     void stop();
 

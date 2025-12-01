@@ -1,4 +1,6 @@
-public class Q6_productofDigits {
+package R1_BasicRecurrancePattern;
+
+public class Q4_productofDigits {
     public static void main(String[] args) {
 
 

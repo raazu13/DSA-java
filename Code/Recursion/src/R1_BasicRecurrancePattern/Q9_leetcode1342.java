@@ -1,4 +1,4 @@
-// number of steps to reduce a number to zero
+package R1_BasicRecurrancePattern;// number of steps to reduce a number to zero
 
 //if number is even divide it by 2 and if it is odd subtract it by one;
 public class Q9_leetcode1342 {

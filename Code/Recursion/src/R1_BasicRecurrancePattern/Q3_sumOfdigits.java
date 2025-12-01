@@ -1,4 +1,6 @@
-public class Q5_sumOfdigits {
+package R1_BasicRecurrancePattern;
+
+public class Q3_sumOfdigits {
     public static void main(String[] args) {
 
 

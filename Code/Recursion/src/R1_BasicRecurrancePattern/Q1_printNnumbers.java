@@ -1,3 +1,5 @@
+package R1_BasicRecurrancePattern;
+
 public class Q1_printNnumbers {
     public static void main(String[] args) {
 

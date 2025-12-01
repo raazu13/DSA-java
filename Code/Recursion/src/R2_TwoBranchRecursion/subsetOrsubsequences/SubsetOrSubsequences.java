@@ -1,4 +1,4 @@
-package subsetOrsubsequences;
+package R2_TwoBranchRecursion.subsetOrsubsequences;
 
 public class SubsetOrSubsequences {
     public static void main(String[] args) {

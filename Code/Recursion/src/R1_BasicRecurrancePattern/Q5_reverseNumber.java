@@ -1,4 +1,6 @@
-public class Q7_reverseNumber {
+package R1_BasicRecurrancePattern;
+
+public class Q5_reverseNumber {
     static int sum=0;
     public static void main(String[] args) {
 
